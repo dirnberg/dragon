@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1716908520076-4acd8a09f537?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkxNzA3NjJ8&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -694,6 +696,3 @@ Die Zukunft der generativen KI ist vielversprechend und voller Potenzial. Techno
     * Link: [Ethics of Algorithms Paper](https://journals.sagepub.com/doi/full/10.1177/2053951716679679)
 25. **BMW.** (2021). "Sustainability and AI."
     * Link: \[Sustainability and AI]\(https://www.b
-
-
-
