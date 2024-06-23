@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mastering Infrastructure](README.md)
+* [Mastering IaaS](README.md)
 
 ## 05\_generative\_ai
 
