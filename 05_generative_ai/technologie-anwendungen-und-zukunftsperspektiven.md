@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1716908520076-4acd8a09f537?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkxNzA3NjJ8&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # Generative AI: Technologie, Anwendungen und Zukunftsperspektiven
 
 ## Technologie, Anwendungen und Zukunftsperspektiven
