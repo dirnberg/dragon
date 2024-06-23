@@ -1,17 +1,12 @@
 # Table of contents
 
 * [Mastering Infrastructure](README.md)
+* [Page](page.md)
 
 ## 03\_enterprise\_information\_systems
 
-## 04\_automatiion\_control
-
-* [Page 4](04\_automatiion\_control/page-4.md)
+* [Page 1](03\_enterprise\_information\_systems/page-1.md)
 
 ## 05\_generative\_ai
 
-* [Generative AI: Technologie, Anwendungen und Zukunftsperspektiven](05\_generative\_ai/generative-ai-technologie-anwendungen-und-zukunftsperspektiven.md)
-
-## 06\_INDUSTRIAL\_CYBER\_SECURITY
-
-* [Page 1](06\_industrial\_cyber\_security/page-1.md)
+* [Generative AI: Technologie, Anwendungen und Zukunftsperspektiven](05\_generative\_ai/technologie-anwendungen-und-zukunftsperspektiven.md)

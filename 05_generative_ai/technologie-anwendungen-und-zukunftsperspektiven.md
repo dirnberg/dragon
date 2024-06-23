@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Technologie, Anwendungen und Zukunftsperspektiven
+# Generative AI: Technologie, Anwendungen und Zukunftsperspektiven
 
 ## Technologie, Anwendungen und Zukunftsperspektiven
 
