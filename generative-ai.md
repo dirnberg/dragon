@@ -1,4 +1,8 @@
-# Generative AI: Technologie, Anwendungen und Zukunftsperspektiven
+# Generative AI
+
+5.1 Machine Learning and Artificial Intelligence 5.2 Analysis of Large Datasets and Optimization of Production Processes 5.3 Generative Models: Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs) 5.4 Applications: Image and Speech Recognition, Text Generation 5.5 Applications of Generative AI in Industry (e.g., Automotive, Healthcare, Manufacturing) including Predictive Maintenance 5.6 Case Studies and Applications
+
+##
 
 ## Technologie, Anwendungen und Zukunftsperspektiven
 
